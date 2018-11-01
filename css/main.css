@@ -19,13 +19,7 @@ body {
 	font-family: SolaimanLipiNormal;
 	
 }
-.navbar .nav > li > a {
-    color: #ffffff;
-    padding-top: 19px;
-    font-size: 14px !important;
-    text-shadow: 1px 0px 1px #000000;
-    font-weight: bold;
-}
+
 samp {font-family:Calibri;font-size:14px;color: #F44336;font-weight:600;}
 .content-wrapper:samp {color:red}
 .photos-div-inside {
@@ -342,6 +336,13 @@ height: 0;
 border-left: 10px solid transparent;
 border-right: 10px solid transparent;
 border-top: 10px solid #ffc107;
+}
+.navbar .nav > li > a {
+    color: #ffffff;
+    padding-top: 19px;
+    font-size: 14px !important;
+    text-shadow: 1px 0px 1px #000000;
+    font-weight: bold;
 }
 /**
 * Make it plain/simple below 45em (stack everything)
