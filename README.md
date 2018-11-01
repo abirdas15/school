@@ -1,1 +1,1 @@
-# School Project HTMl Template
+# School Project HTML Template
